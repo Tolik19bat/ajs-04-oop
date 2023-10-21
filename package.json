@@ -1,5 +1,5 @@
 {
-  "name": "template",
+  "name": "ajs-04-oop",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -33,5 +33,13 @@
     "webpack": "^5.89.0",
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^4.15.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tolik19bat/ajs-04-oop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tolik19bat/ajs-04-oop/issues"
+  },
+  "homepage": "https://github.com/Tolik19bat/ajs-04-oop#readme"
 }
